@@ -41,7 +41,7 @@ public class PaqueteRed
             if (value < 0 || value > 65535)
                 throw new ArgumentException("Puerto de origen inválido.");
 
-            puertoOrigen = value;
+            puertoOrigen = value; 
         }
     }
 

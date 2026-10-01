@@ -16,7 +16,7 @@ public class Simulacion
         Paquete = paquete ?? throw new ArgumentNullException(nameof(paquete));
 
         dispositivos = new List<DispositivoRed>();
-    }
+    } 
 
     public void AgregarDispositivo(DispositivoRed dispositivo)
     {

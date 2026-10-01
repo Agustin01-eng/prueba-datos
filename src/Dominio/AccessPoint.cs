@@ -11,6 +11,6 @@ public class AccessPoint : DispositivoRed
     {
         Console.WriteLine(
             $"Access Point {Nombre}: transmitiendo el paquete por Wi-Fi."
-        );
+        ); 
     }
 }
