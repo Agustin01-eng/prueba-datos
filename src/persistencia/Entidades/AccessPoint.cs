@@ -1,4 +1,4 @@
-namespace Dominio;
+namespace Persistencia.Entidades;
 
 public class AccessPoint : DispositivoRed
 {

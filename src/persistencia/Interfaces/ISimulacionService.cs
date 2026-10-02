@@ -1,6 +1,6 @@
-using Dominio;
+using Persistencia.Entidades;
 
-namespace Aplicacion.Interfaces;
+namespace Persistencia.Interfaces;
 
 public interface ISimulacionService
 

@@ -1,7 +1,4 @@
-using Aplicacion.Interfaces;
-using Dominio;
-
-namespace Aplicacion.Servicios;
+namespace aplicacion.servicio;
 
 public class SimulacionService : ISimulacionService 
 {

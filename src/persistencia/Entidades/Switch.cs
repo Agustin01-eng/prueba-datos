@@ -1,4 +1,4 @@
-namespace Dominio;
+namespace Persistencia.Entidades;
 
 public class Simulacion
 {
@@ -25,4 +25,4 @@ public class Simulacion
 
         dispositivos.Add(dispositivo);
     }
-}|
+}
